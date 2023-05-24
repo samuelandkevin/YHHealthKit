@@ -1,0 +1,6 @@
+framework module Pods_HealthKitSwift {
+  umbrella header "Pods-HealthKitSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
